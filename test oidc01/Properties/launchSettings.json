@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "test oidc01": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:5501;http://localhost:63183"
+    }
+  }
+}
